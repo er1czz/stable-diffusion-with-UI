@@ -5,6 +5,7 @@ UI is built with Gradio
 ## key setting
 - OS: Windows 10 Pro
 - GPU enabled: NVIDIA GEOFORCE RTX 2070 (8GB VRAM)
+- ```conda create --name stablediffusion_p38 python=3.8```
 - Pytorch 2.0.1 + cuda 11.7
 - Model: [stabilityai/stable-diffusion-2-1](https://huggingface.co/stabilityai/stable-diffusion-2-1)
   
