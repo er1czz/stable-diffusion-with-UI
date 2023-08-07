@@ -15,7 +15,7 @@ UI is built with Gradio
   
 ## Note:
 - Just discovered a very popular stable diffusion UI repo (link below) after I built the backend. Well, a good practice for me  ¯\\_(ツ)_/¯ <sup>1</sup>
-- Pytorch 2 is much more optimized than Pytorch 1 and is arguably faster even without xformers. <sup>2, 3</sup>
+- Pytorch 2 is much more optimized and arguably faster than Pytorch 1 even without xformers. <sup>2, 3</sup>
 - [xformers](https://github.com/facebookresearch/xformers) may not bring performance gain to Pytorch 2+ <sup>3</sup>
 
 ### Reference
