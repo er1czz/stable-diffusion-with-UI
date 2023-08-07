@@ -15,8 +15,8 @@ UI is built with Gradio
 3. xformers may not bring performance gain to Pytorch 2+ [1]
 
 ### Reference
-[1] Release note of Pytorch 2.0 https://github.com/pytorch/pytorch/releases/tag/v2.0.0
-[2] Optimization wiki for stable diffusion by AUTOMATIC1111 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Optimizations/
+- [1] Release note of Pytorch 2.0 https://github.com/pytorch/pytorch/releases/tag/v2.0.0
+- [2] Optimization wiki for stable diffusion by AUTOMATIC1111 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Optimizations/
 
 ## License
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion/blob/21f890f9da3cfbeaba8e2ac3c425ee9e998d5229/LICENSE) 
