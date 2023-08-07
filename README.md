@@ -3,7 +3,7 @@ Input text prompt to return image by Stable Diffusion, a latent diffusion model
 UI is built with Gradio
 
 ## Note:
-Well, just discovered a very very popular stable diffusion UI repo after I built the backend ¯\\_(ツ)_/¯
+Just discovered a very very popular stable diffusion UI repo (link below) after I built the backend. Well, a good practice  ¯\\_(ツ)_/¯
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 ## License
