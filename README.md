@@ -10,7 +10,8 @@ UI is built with Gradio
 - ```conda create --name stablediffusion_p38 python=3.8```
 - Pytorch 2.0.1 + cuda 11.7
 - Model: [stabilityai/stable-diffusion-2-1](https://huggingface.co/stabilityai/stable-diffusion-2-1)
-- The whole model is large (67.6 GB). Therefore, a local copy (e.g. "./model/stable-diffusion-2-1/") is loaded. 
+- The whole model is large (67.6 GB). Therefore, a local copy (e.g. "./model/stable-diffusion-2-1/") is loaded.
+- All the installed packages: [demo_requirements.txt](https://github.com/er1czz/stable-diffusion-with-UI/blob/main/demo_requirements.txt)
   
 ## Note:
 - Just discovered a very popular stable diffusion UI repo (link below) after I built the backend. Well, a good practice for me  ¯\\_(ツ)_/¯ <sup>1</sup>
