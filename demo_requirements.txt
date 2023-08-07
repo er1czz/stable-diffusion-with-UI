@@ -1,0 +1,91 @@
+accelerate==0.21.0
+aiofiles==23.1.0
+aiohttp==3.8.5
+aiosignal==1.3.1
+altair==5.0.1
+annotated-types==0.5.0
+anyio==3.7.1
+async-timeout==4.0.2
+attrs==23.1.0
+Brotli @ file:///D:/bld/brotli-split_1648883782420/work
+certifi @ file:///C:/b/abs_36eb5mzhph/croot/certifi_1690232276943/work/certifi
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1688813409104/work
+click==8.1.6
+colorama==0.4.6
+contourpy==1.1.0
+cycler==0.11.0
+diffusers @ git+https://github.com/huggingface/diffusers.git@9c29bc2df8bd4249ad73bc39d2453336078fb1fb
+exceptiongroup==1.1.2
+fastapi==0.101.0
+ffmpy==0.3.1
+filelock==3.12.2
+fonttools==4.42.0
+frozenlist==1.4.0
+fsspec==2023.6.0
+gradio==3.39.0
+gradio_client==0.3.0
+h11==0.14.0
+httpcore==0.17.3
+httpx==0.24.1
+huggingface-hub==0.16.4
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+importlib-metadata==6.8.0
+importlib-resources==6.0.0
+invisible-watermark==0.2.0
+Jinja2 @ file:///C:/b/abs_7cdis66kl9/croot/jinja2_1666908141852/work
+jsonschema==4.18.6
+jsonschema-specifications==2023.7.1
+kiwisolver==1.4.4
+linkify-it-py==2.0.2
+markdown-it-py==2.2.0
+MarkupSafe @ file:///C:/ci/markupsafe_1654489871526/work
+matplotlib==3.7.2
+mdit-py-plugins==0.3.3
+mdurl==0.1.2
+mpmath @ file:///C:/b/abs_7833jrbiox/croot/mpmath_1690848321154/work
+multidict==6.0.4
+networkx @ file:///C:/b/abs_e6gi1go5op/croot/networkx_1690562046966/work
+numpy @ file:///D:/bld/numpy_1660672939211/work
+opencv-python==4.8.0.74
+orjson==3.9.3
+packaging==23.1
+pandas==2.0.3
+Pillow @ file:///D:/bld/pillow_1660385943459/work
+pkgutil_resolve_name==1.3.10
+psutil==5.9.5
+pydantic==2.1.1
+pydantic_core==2.4.0
+pydub==0.25.1
+pyparsing==3.0.9
+PySocks @ file:///D:/bld/pysocks_1661604991356/work
+python-dateutil==2.8.2
+python-multipart==0.0.6
+pytz==2023.3
+PyWavelets==1.4.1
+PyYAML==6.0.1
+referencing==0.30.2
+regex==2023.6.3
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1684774241324/work
+rpds-py==0.9.2
+safetensors==0.3.1
+scipy==1.10.1
+semantic-version==2.10.0
+six==1.16.0
+sniffio==1.3.0
+starlette==0.27.0
+sympy @ file:///C:/b/abs_95fbf1z7n6/croot/sympy_1668202411612/work
+tokenizers==0.12.1
+toolz==0.12.0
+torch==2.0.1
+torchvision==0.15.2
+tqdm==4.65.0
+transformers==4.31.0
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1688315532570/work
+tzdata==2023.3
+uc-micro-py==1.0.2
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1689789803562/work
+uvicorn==0.23.2
+websockets==11.0.3
+win-inet-pton @ file:///D:/bld/win_inet_pton_1667051142467/work
+yarl==1.9.2
+zipp==3.16.2
