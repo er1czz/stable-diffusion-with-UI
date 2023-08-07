@@ -4,7 +4,7 @@ UI is built with Gradio
 
 <p align="center"><img src="https://github.com/er1czz/stable-diffusion-with-UI/blob/main/sd_UI_demo.png" style = "border:10px solid white"></p> 
 
-## key setting
+## Main specs:
 - OS: Windows 10 Pro
 - GPU enabled: NVIDIA GEOFORCE RTX 2070 (8GB VRAM)
 - ```conda create --name stablediffusion_p38 python=3.8```
