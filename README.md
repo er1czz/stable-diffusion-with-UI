@@ -9,9 +9,9 @@ UI is built with Gradio
 - Model: [stabilityai/stable-diffusion-2-1](https://huggingface.co/stabilityai/stable-diffusion-2-1)
   
 ## Note:
-1. Just discovered a very popular stable diffusion UI repo (link below) after I built the backend. Well, a good practice for me  ¯\\_(ツ)_/¯ <sup>1</sup>
-2. Pytorch 2 is much more optimized than Pytorch 1 and is arguably faster even without xformers. <sup>2, 3</sup>
-3. xformers may not bring performance gain to Pytorch 2+ <sup>3</sup>
+- Just discovered a very popular stable diffusion UI repo (link below) after I built the backend. Well, a good practice for me  ¯\\_(ツ)_/¯ <sup>1</sup>
+- Pytorch 2 is much more optimized than Pytorch 1 and is arguably faster even without xformers. <sup>2, 3</sup>
+- [xformers](https://github.com/facebookresearch/xformers) may not bring performance gain to Pytorch 2+ <sup>3</sup>
 
 ### Reference
 - <sup>1</sup> [https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
